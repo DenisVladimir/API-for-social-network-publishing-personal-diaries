@@ -61,7 +61,6 @@ class FollowSerializer(serializers.ModelSerializer):
         return data
 
 
-
 '''
 from rest_framework import serializers
 from rest_framework.relations import SlugRelatedField
